@@ -1,2 +1,2 @@
 # forensic-watermarking
-Created forensic watermarking using DCT and DWT
+Created forensic watermarking using openCV and DCT, DWT
